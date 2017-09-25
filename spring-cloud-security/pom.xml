@@ -10,7 +10,7 @@
 	<description>Spring Cloud Security</description>
 
 	<parent>
-		<groupId>org.springframework.cloud</groupId>
+		<groupId>cn.superid.cloud</groupId>
 		<artifactId>spring-cloud-security-parent</artifactId>
 		<version>1.2.1.RELEASE</version>
 		<relativePath>..</relativePath>
