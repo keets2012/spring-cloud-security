@@ -21,10 +21,10 @@
 		<security.oauth2.version>2.2.0-SNAPSHOT</security.oauth2.version>
 	</properties>
 	<dependencies>
-		<dependency>
+		<!--<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-security</artifactId>
-		</dependency>
+		</dependency>-->
 		<dependency>
 			<groupId>cn.superid.security.oauth</groupId>
 			<artifactId>spring-security-oauth2</artifactId>
