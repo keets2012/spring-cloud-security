@@ -14,6 +14,7 @@
 		<version>1.3.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<scm>
 		<url>https://github.com/spring-cloud/spring-cloud-config</url>
 		<connection>scm:git:git://github.com/spring-cloud/spring-cloud-config.git</connection>
