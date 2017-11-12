@@ -1,5 +1,7 @@
 image::https://badges.gitter.im/Join%20Chat.svg["Gitter",link="https://gitter.im/spring-cloud/spring-cloud-security?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 
+== About dev-1.2.1.RELEASE
+基于1.2.1.RELEASE 切出了新分支dev-1.2.1.RELEASE ，实现权限校验前置
 
 include::intro.adoc[]
 
